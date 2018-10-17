@@ -3,7 +3,7 @@
 
 ## ディレクトリ構成図  
 
-```
+```  
 analysis_vital_data   
 ├── LICENSE  
 ├── README.md  
@@ -11,5 +11,5 @@
       ├── input  ───────── 入力データ
       ├── notebook  ────── notebookファイル
       └── src  ─────────── .pyファイル
-```
+```  
 

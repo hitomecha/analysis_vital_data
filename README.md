@@ -4,7 +4,7 @@
 ## ディレクトリ構成図  
 
 ```  html  
-analysis_vital_data   
+analysis_vital_data   
 ├── LICENSE  
 ├── README.md  
 └── RRI2HRV ────────────── RRIデータからHRV解析を行うスクリプト    
@@ -13,7 +13,7 @@
       └── src  ─────────── .pyファイル
 ```  
 
-# 各ディレクトリの説明   
+# 各ディレクトリの説明   
 ## 1. RRI2HRV  
-RRIのデータからHRV解析を行う。HFやLFを算出する。
+RRIのデータからHRV解析を行う。HFやLFを算出する。
 
